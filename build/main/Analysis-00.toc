@@ -1,5 +1,7 @@
-(['C:\\Users\\DELL\\OneDrive\\Desktop\\PythonProjects\\YouStupidPrank\\main.py'],
- ['C:\\Users\\DELL\\OneDrive\\Desktop\\PythonProjects\\YouStupidPrank'],
+(['C:\\Users\\DELL\\OneDrive\\Desktop\\PythonProjects\\YouStupidPrank\\Python '
+  'Source Code\\main.py'],
+ ['C:\\Users\\DELL\\OneDrive\\Desktop\\PythonProjects\\YouStupidPrank\\Python '
+  'Source Code'],
  [],
  [('C:\\Users\\DELL\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\numpy\\_pyinstaller',
    0),
@@ -21,7 +23,8 @@
    'C:\\Users\\DELL\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
    'PYSOURCE'),
   ('main',
-   'C:\\Users\\DELL\\OneDrive\\Desktop\\PythonProjects\\YouStupidPrank\\main.py',
+   'C:\\Users\\DELL\\OneDrive\\Desktop\\PythonProjects\\YouStupidPrank\\Python '
+   'Source Code\\main.py',
    'PYSOURCE')],
  [('inspect',
    'C:\\Program '
@@ -407,13 +410,13 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\ast.py',
    'PYMODULE'),
-  ('stringprep',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\stringprep.py',
-   'PYMODULE'),
   ('tracemalloc',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\stringprep.py',
    'PYMODULE'),
   ('_py_abc',
    'C:\\Program '

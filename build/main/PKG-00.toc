@@ -34,7 +34,8 @@
    'C:\\Users\\DELL\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
    'PYSOURCE'),
   ('main',
-   'C:\\Users\\DELL\\OneDrive\\Desktop\\PythonProjects\\YouStupidPrank\\main.py',
+   'C:\\Users\\DELL\\OneDrive\\Desktop\\PythonProjects\\YouStupidPrank\\Python '
+   'Source Code\\main.py',
    'PYSOURCE'),
   ('python312.dll',
    'C:\\Program '
