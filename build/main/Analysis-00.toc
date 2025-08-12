@@ -1,7 +1,5 @@
-(['C:\\Users\\DELL\\OneDrive\\Desktop\\PythonProjects\\YouStupidPrank\\Python '
-  'Source Code\\main.py'],
- ['C:\\Users\\DELL\\OneDrive\\Desktop\\PythonProjects\\YouStupidPrank\\Python '
-  'Source Code'],
+(['C:\\Users\\DELL\\OneDrive\\Desktop\\PythonProjects\\YouStupidPrank\\main.py'],
+ ['C:\\Users\\DELL\\OneDrive\\Desktop\\PythonProjects\\YouStupidPrank'],
  [],
  [('C:\\Users\\DELL\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\numpy\\_pyinstaller',
    0),
@@ -23,8 +21,7 @@
    'C:\\Users\\DELL\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
    'PYSOURCE'),
   ('main',
-   'C:\\Users\\DELL\\OneDrive\\Desktop\\PythonProjects\\YouStupidPrank\\Python '
-   'Source Code\\main.py',
+   'C:\\Users\\DELL\\OneDrive\\Desktop\\PythonProjects\\YouStupidPrank\\main.py',
    'PYSOURCE')],
  [('inspect',
    'C:\\Program '
@@ -410,6 +407,10 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\ast.py',
    'PYMODULE'),
+  ('_py_abc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\_py_abc.py',
+   'PYMODULE'),
   ('tracemalloc',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\tracemalloc.py',
@@ -417,10 +418,6 @@
   ('stringprep',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\stringprep.py',
-   'PYMODULE'),
-  ('_py_abc',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\_py_abc.py',
    'PYMODULE'),
   ('threading',
    'C:\\Program '
@@ -445,14 +442,6 @@
   ('shlex',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\shlex.py',
-   'PYMODULE'),
-  ('ctypes',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\__init__.py',
-   'PYMODULE'),
-  ('ctypes._endian',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\_endian.py',
    'PYMODULE')],
  [('python312.dll',
    'C:\\Program '
@@ -486,10 +475,6 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\DLLs\\_socket.pyd',
    'EXTENSION'),
-  ('_ctypes.pyd',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\DLLs\\_ctypes.pyd',
-   'EXTENSION'),
   ('VCRUNTIME140.dll',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\VCRUNTIME140.dll',
@@ -497,10 +482,6 @@
   ('libcrypto-3.dll',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\DLLs\\libcrypto-3.dll',
-   'BINARY'),
-  ('libffi-8.dll',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\DLLs\\libffi-8.dll',
    'BINARY')],
  [],
  [],
